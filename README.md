@@ -1,6 +1,6 @@
 # flutter_lab_4_1
 
-A new Flutter project.
+A new Flutter project lab 4-1.
 
 ## Getting Started
 
