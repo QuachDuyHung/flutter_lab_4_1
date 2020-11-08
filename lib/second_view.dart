@@ -12,16 +12,16 @@ class SecondView extends StatelessWidget {
           children: <Widget>[
             FlatButton(
                 onPressed: () {
-                  Navigator.pop(context);
+                  Navigator.pushNamed(context, '/');
                 },
                 child: Text('Go back!'),
                 textColor: Colors.white,
-                color: Colors.red),
+                color: Colors.green),
             FlatButton(
                 onPressed: () {
                   Navigator.pushNamed(context, '/detail');
                 },
-                child: Text('Detailview'),
+                child: Text('Detail View'),
                 textColor: Colors.white,
                 color: Colors.red)
           ],
