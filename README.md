@@ -67,8 +67,6 @@ Click button **`Detail View`** sẽ chuyển đến trang **_Detail Screen_** _(
 
 Click button **`Pass Argument screen`**, màn hình sẽ chuyển vào trang **_Pass Argument Screen_** _(route /pass-argument)_. Trong trang này có 2 nút **Dart** và **Flutter**, khi click vào 1 trong 2 nút này sẽ chuyển đến trang chi tiết, đồng thời tham số sẽ được truyền vào để giúp ta phân biệt được các trang với nhau.
 
-Khi click button **`Go back first screen`** mà hình sẽ quay về trang **_First Screen_**
-
 <div style="text-align: center">
   <img src="images/pass_argument_screen.png" width="250" alt="Pass Argument Screen" />
   <img src="images/detail_pass_argument_screen_1.png" width="250" alt="Detail Pass Argument Screen 1" />
