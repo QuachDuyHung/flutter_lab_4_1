@@ -1,6 +1,6 @@
 # **Flutter Lab 4-1**
 
-A new Flutter project lab 4-1.
+> A new Flutter project lab 4-1.
 
 ## **Getting Started**
 
@@ -65,7 +65,7 @@ Click button **`Detail View`** sẽ chuyển đến trang **_Detail Screen_** _(
 
 ### **3. Pass arguments to a named route**
 
-> Click button **`Pass Argument screen`**, màn hình sẽ chuyển vào trang **_Pass Argument Screen_** _(route /pass-argument)_. Trong trang này có 2 nút **Dart** và **Flutter**, khi click vào 1 trong 2 nút này sẽ chuyển đến trang chi tiết, đồng thời tham số sẽ được truyền vào để giúp ta phân biệt được các trang với nhau.
+Click button **`Pass Argument screen`**, màn hình sẽ chuyển vào trang **_Pass Argument Screen_** _(route /pass-argument)_. Trong trang này có 2 nút **Dart** và **Flutter**, khi click vào 1 trong 2 nút này sẽ chuyển đến trang chi tiết, đồng thời tham số sẽ được truyền vào để giúp ta phân biệt được các trang với nhau.
 
 Khi click button **`Go back first screen`** mà hình sẽ quay về trang **_First Screen_**
 
