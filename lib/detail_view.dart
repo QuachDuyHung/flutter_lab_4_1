@@ -14,7 +14,7 @@ class DetailView extends StatelessWidget {
               // off the stack.
               Navigator.pushNamed(context, '/second');
             },
-            child: Text('Go back!'),
+            child: Text('Go back second screen!'),
             textColor: Colors.white,
             color: Colors.red),
       ),

@@ -14,7 +14,7 @@ class SecondView extends StatelessWidget {
                 onPressed: () {
                   Navigator.pushNamed(context, '/');
                 },
-                child: Text('Go back!'),
+                child: Text('Go back first screen!'),
                 textColor: Colors.white,
                 color: Colors.green),
             FlatButton(
