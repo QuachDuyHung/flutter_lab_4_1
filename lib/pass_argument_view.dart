@@ -87,7 +87,8 @@ class ExtractArgumentsScreen extends StatelessWidget {
         title: Text(args.title),
       ),
       body: Center(
-        child: Text(args.message),
+        child: Text(args.message,
+            style: TextStyle(color: Colors.red, fontSize: 20)),
       ),
     );
   }
@@ -112,7 +113,8 @@ class PassArgumentsScreen extends StatelessWidget {
         title: Text(title),
       ),
       body: Center(
-        child: Text(message),
+        child:
+            Text(message, style: TextStyle(color: Colors.purple, fontSize: 20)),
       ),
     );
   }
